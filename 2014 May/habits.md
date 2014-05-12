@@ -1,15 +1,8 @@
 # Design your personal operating system: habits
 
-The operating system you already use everyday: habits
-Designing the operating system you already use
-How to automate it
-Designing your habit operating system
-Automate your habit system
+Habits.
 
-
-Today, a friend asked me for the one piece of insight on how to create lasting habit change.
-
-In a word, automate it. 
+Audience take-away: habits are composed of rituals, reducing decisions, automation, philosophy
 
 Day to day. I build and design software. Software is explicitly designed, when I write software, I can set individual variables, and when something does not operate as I expect, I can run a debugger and observe system variables as it's running. With enough knowledge and tools, I can trace how and when something happens.
 
@@ -33,8 +26,8 @@ I want to talk about two rules in starting, failing, iterating, and creating hab
 
 I am trying to write regularly for the first time in my life. My life's purpose is to build and create ideas, writing distills and crystalizes the best ones. A few months ago, I started a habit of drawing everyday for 40 minutes to learn how to sketch. I thought, I would just follow that template and be able to complete my writing experiment for the coming month. The first few weeks, I sucked. I found I did not have enough hours in a day to start writing and get to work in time for our daily standup. My semi-daily gym workout also suffered from trying to squeeze in two pre-work habits.
 
-# Time-spanned. Saying I'm going to do something forever is a very very hard way to succeed.
-# Feedback and iteration. I was lucky enough to listen to my friend Maha give a talk on how she performs time management. 
+1. Time-spanned. Saying I'm going to do something forever is a very very hard way to succeed.
+2. Feedback and iteration. I was lucky enough to listen to my friend Maha give a talk on how she performs time management. 
 
 In a heart beat it finally made sense. It took me about 20-30 minutes to start writing at a fast pace, I could not as easily find a cadence in less than a two hour block.
 
@@ -44,3 +37,17 @@ For the nerds in our audience:
 1) Christopher Alexander (see Pattern Language) might call these Selfconscious or unselfconscious environments. 
 
 2) Books related to habits: Decisive, Jim Collins, BJ Fogg, Focus? Mastery? Malcolm Gladwell, Habit Loop, Nir Eyal
+
+
+
+Appendix: 
+
+The operating system you already use everyday: habits
+Designing the operating system you already use
+How to automate it
+Designing your habit operating system
+Automate your habit system
+
+Today, a friend asked me for the one piece of insight on how to create lasting habit change.
+
+In a word, automate it.
