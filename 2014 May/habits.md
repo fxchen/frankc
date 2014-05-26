@@ -2,6 +2,10 @@
 
 Habits are behaviors you do without thought. Your default. Your routine. *Habits become the operating system you live your life through.* 
 
+The secret many of us miss... **YOU can change this operating system.**
+
+Marketers, advertisers, psychologists, designers have discovered tiny secrets that can help you create the change you want to see in the world.
+
 Benjamin Franklin—statesmen, musician, author, inventor—asked himself every morning:
 
 > What good shall I do today?
@@ -24,8 +28,7 @@ Habits are a series of choices that are individual behaviors. A behavior is a co
 > 1. Have an epiphany 
 > 2. Change your environment  (what surrounds you)
 > 3. Take baby steps
-> 
-> More? Join Dr. Fogg's  http://tinyhabits.com
+
 
 A few months ago, an incredibly smart friend and I were talking about habits. He lost over a hundred pounds over the past year, which was mindblowingly cool to me. And he wanted to do more, though had plateaued. When I started to describe my process, I recognized some subtle framing changes to thinking about habits that combine two interests: developing software and designing behavior.
 
@@ -54,13 +57,15 @@ The key to creating an ecosystem is automation. Creating systems where the only 
 
 There are specific tactics to this:
 
-1. Start small, simple
+1. Start small, simple.
 1. Make it social, maximize fun.
 1. Small feedback cycles, learn, cut ruthlessly.
-1. There is no forever. Behaviors exist for certain time-span.
+1. There is no forever. Time-span behaviors for maximum result.
 
-[1] Wiseman, Richard. 88% of 3000 people failed in their resolutions.  http://j.mp/RFd65w *Sitenote*: Many cite this study, but seem to miss out on a specific reference. Culprits: WSJ (http://j.mp/1suuKo4), Wikipedia (http://j.mp/QL8Tg0), Guardian (http://j.mp/T4UcGw), Buffer (http://j.mp/1osvCvV). They seem to cite other news articles or contain no citation, which irks me.
+Let me know if this type of work is useful to you.
+
+[1] Wiseman, Richard. 88% of 3000 people failed in their resolutions.  http://j.mp/RFd65w *Sitenote*: Many cite this study, but seem to miss out on a specific reference. Culprits: WSJ (http://j.mp/1suuKo4), Wikipedia (http://j.mp/QL8Tg0), Guardian (http://j.mp/T4UcGw), Buffer (http://j.mp/1osvCvV). They either contain no citation or cite other news articles.
 
 [2] Fogg, BJ. Tiny Habits. At the time of this writing, over 24,000 have participated. It takes about 3 minutes per day and is a single week. http://tinyhabits.com
 
-[3]
+[3] Reference: Charles Duhigg, Jim Collins,BJ Fogg, Nir Eyal, Dan Pink, Jim Collins
