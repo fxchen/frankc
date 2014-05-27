@@ -2,24 +2,23 @@
 
 Habits are behaviors you do without thought. Your default. Your routine. *Habits become the operating system you live your life through.* 
 
-The secret many of us miss... **YOU can change this operating system.**
-
-Marketers, advertisers, psychologists, designers have discovered tiny secrets that can help you create the change you want to see in the world.
+Marketers, advertisers, psychologists, designers have discovered tiny secrets that help them create behaviors and program an individual's operating system.
 
 Benjamin Franklin—statesmen, musician, author, inventor—asked himself every morning:
 
 > What good shall I do today?
 
-He tracked 17** morals on a daily basis to see how he had been doing. He created a system to develop better habits and improve himself on a daily basis. 
-** Fact check this.
+He tracked 13 morals on a daily basis to see how he had been doing. He created a system to develop better habits and improve himself on a daily basis. 
 
 I want to share a slice things I have been a part of. I currently work as a software, software is the language I communicate in. I used to work in human-computer interaction for behavior design and research. While there is overlap in technique, **this intersection** of design, behavior, and engineering is unique.
 
-Most people have trouble recognizing the fact: Anyone can change their habits, their routines. By using simple tools and frameworks, anyone can change even the hardest habits. According to a recent study, only about 88% of those who set resolutions achieve them [1]. This means, about 88% of people at the beginning of the year say:
+Many of us have trouble recognizing the fact: You can change your habits, your routines. By using simple tools and frameworks, you can change even the hardest habits. According to a recent study, only about 12% of those who set resolutions achieve them [1]. This means, about 88% of people fail at their resolutions! As the new year starts they may say:
 
 - I will never smoke again.
 - I will not eat carbs again.
 - I will lose 10 lbs this year.
+
+![88% of those who create new year's habits do not follow through. Photo @ \[4\]](https://farm3.staticflickr.com/2182/2328737233_9cd46fe0f2_b.jpg)
 
 Many of these resolutions fail in the absense of a habit.
 
@@ -49,23 +48,37 @@ The tools we use in software development do not exist in the same way to develop
 
 ## Developing behavior
 
-Habits are social systems we operate in. They say 90% of communication is non-verbal. The amount of signals we receive from different social situations is astounding and our brains are wired to process all of this without conscious thought. The way a software developer parses complexity to find issues is impossible for behavior. With 2014 technology, you can't pause time and figure out all the variables in a social situation. 
+Habits are social systems we operate in. People have said 90% of communication is non-verbal. The amount of signals we receive from different social situations is astounding and our brains are wired to process all of this without conscious thought. The way a software developer parses complexity to find issues is impossible for behavior. There is no analogue to pausing time and figuring out all the variables in a social situation. 
 
-Creating an individual habit is hard. Many books have been written about this [3]. Habits never arise in absense of a social situation. Marcus Aurelius once said "the intelligence of the universe is social". Changing an entire social ecosystem is hard, so is change in the absense of an ecosystem. 
+Creating an individual habit is hard. Many books have been written about this [3]. Habits never arise in absense of a social situation. Marcus Aurelius once said "the intelligence of the universe is social". Changing an entire social ecosystem is hard, and so is change in the absense of an ecosystem.
 
-The key to creating an ecosystem is automation. Creating systems where the only choice is success.
+The key to creating new habits is **automation**: Creating systems where the only choice is success.
 
 There are specific tactics to this:
 
 1. Start small, simple.
 1. Make it social, maximize fun.
-1. Small feedback cycles, learn, cut ruthlessly.
-1. There is no forever. Time-span behaviors for maximum result.
+1. Create small feedback cycles, learn, cut ruthlessly.
+1. There is no forever. Only define behaviors with a time-span.
 
-Let me know if this type of work is useful to you.
+![Create automatic systems to maximize habits. Trying to run? Find a group and join them. Photo @ \[5\]](https://farm3.staticflickr.com/2891/11619047474_71850d7f16_b.jpg)
 
-[1] Wiseman, Richard. 88% of 3000 people failed in their resolutions.  http://j.mp/RFd65w *Sitenote*: Many cite this study, but seem to miss out on a specific reference. Culprits: WSJ (http://j.mp/1suuKo4), Wikipedia (http://j.mp/QL8Tg0), Guardian (http://j.mp/T4UcGw), Buffer (http://j.mp/1osvCvV). They either contain no citation or cite other news articles.
+--------
 
-[2] Fogg, BJ. Tiny Habits. At the time of this writing, over 24,000 have participated. It takes about 3 minutes per day and is a single week. http://tinyhabits.com
+**References**
 
-[3] Reference: Charles Duhigg, Jim Collins,BJ Fogg, Nir Eyal, Dan Pink, Jim Collins
+[1] Wiseman, Richard. 88% of 3000 people failed in their resolutions.  <http://j.mp/RFd65w> *Sitenote*: Many cite this study, but seem to miss out on a specific reference. Culprits: [WSJ](http://j.mp/1suuKo4), [Wikipedia](http://j.mp/QL8Tg0), [the Guardian](http://j.mp/T4UcGw), [Buffer](http://j.mp/1osvCvV). They either contain no citation or cite other news articles.
+
+[2] Fogg, BJ. Tiny Habits. At the time of this writing, over 24,000 have participated. It takes about 3 minutes per day and is a single week. <http://tinyhabits.com>
+
+[3] Books on habits: 
+- Charles Duhigg's [Power of Habit](http://j.mp/1joT1H6)
+- BJ Fogg's [Persuasive Technology: Using Computers to Change What We Think and Do](http://j.mp/1wc3Y8M)
+- Nir Eyal & Ryan Hoover's [Hooked](http://j.mp/1miEQGA)
+- Chip & Dan Heath's [Switch](http://j.mp/RvdR0O)
+- Daniel Pink's [To Sell Is Human](http://j.mp/1nr4H4l)
+- Richard Thaler and Cass Sunstein's [Nudge](http://j.mp/1ptkYTt)
+
+[4] Andando in skateboard / Skating <http://j.mp/1ptpBNp>
+
+[5] La course, par Franck Vervial 
