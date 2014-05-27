@@ -81,4 +81,4 @@ There are specific tactics to this:
 
 [4] Andando in skateboard / Skating <http://j.mp/1ptpBNp>
 
-[5] La course, par Franck Vervial 
+[5] La course, par Franck Vervial <http://j.mp/1h7w0hu>
