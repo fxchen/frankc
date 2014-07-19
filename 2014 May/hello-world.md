@@ -1,6 +1,4 @@
-[Published May 9. Edited on SETT afternoon]
-
-About Frankc
+# About Frankc
 
 ![Taken on a run around LA 2013](run.jpg "Running")
 
