@@ -2,7 +2,7 @@
 
 About Frankc
 
-![Taken on a run around LA 2013](http://cdn.sett.com/images/user/run2a4ad89f3cf51ac41cf8329236fcdb767_front.jpg "Running")
+![Taken on a run around LA 2013](run.jpg "Running")
 
 
 This piece of internet real estate is reserved thoughts that generate ideas, conversations, and projects. I'll be writing to find and explore my interests with a community of people.
