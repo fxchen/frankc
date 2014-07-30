@@ -1,12 +1,12 @@
-Writing by @frankc
+# Writing by @frankc
 ======
 
-This is a collection of writing. Will be organized by month / title.
+This collection of essays by Frank Chen
 
-### 2014 May
-- [About @frankc](https://github.com/fxchen/frankc/blob/master/2014%20May/hello-world.md)
-- [Design your personal operating system: Habits](https://github.com/fxchen/frankc/blob/master/2014%20May/habits.md)
+[About @frankc](https://github.com/fxchen/frankc/blob/master/2014%20May/hello-world.md)
 
+### On Habit Design
 
-### 2014 July
+- [How to Design for Habit: The Secret to Making Great Products](https://github.com/fxchen/frankc/blob/master/2014%20July/design-for-habit.md)
 - [Playlist your Morning Routine: Beat Complexity like a Boss](https://github.com/fxchen/frankc/blob/master/2014%20July/morning-routines.md)
+- [Design your personal operating system: Habits](https://github.com/fxchen/frankc/blob/master/2014%20May/habits.md)

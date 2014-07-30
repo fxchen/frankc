@@ -1,10 +1,11 @@
 # Playlist your Morning Routine: Beat Complexity like a Boss
 
-Some mornings start off awesome, and the day stays awesome . Other mornings start slow, and create a slowness throughout the day. **These slow days suck**
+Some mornings start off awesome, and the day stays awesome. Other mornings start slow, and create a slowness throughout the day. **These slow days suck**
 
 What's the difference between the two?
 
 > At dawn, when you have trouble getting out of bed, tell yourself, "I have to go to work - as a human being. What do I have to complain of, if I'm going to do what I was born for - the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?"
+> *Marcus Aurelius*
 
 Your morning routine shapes the arc of the remainder of the morning and potentially the day. By defining a **crisp** morning routine, you can **maximize your day** in whatever it is you're trying to accomplish.
 
@@ -25,7 +26,8 @@ My morning routine has become a playlist. This progression that leads me towards
 
 ## The Playlist
 
-![My morning ritual](morning-routine.jpg "My morning ritual")*Writing out my morning ritual*
+![My morning ritual](morning-routine.jpg "My morning ritual")
+*Writing out my morning ritual on post-its as a first step*
 
 Tim Ferriss recommended Daily Rituals as part of his book club [4]. I loved this book because of the sheer breadth of how people started their day.
 
