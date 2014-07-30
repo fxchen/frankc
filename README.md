@@ -1,5 +1,4 @@
 # Writing by @frankc
-======
 
 This collection of essays by Frank Chen
 

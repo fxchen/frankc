@@ -6,7 +6,7 @@ Let's say you created a product. A product that solves a common specific problem
 
 Why might someone continue to have a problem or use an inferior solution? These people *already* have routines based around their current solution. They may not even recognize they have a default routine. Help them use your product by developing new habits around **what they already do**. [1]
 
-> Design is making the unintuitive intuitive.
+> Design is making the unintuitive intuitive.  
 > *John Maeda*
 
 Designing products that people use is a process. Ideally, this process starts as a small conscious change in their routine and incrementally grows until the product becomes the individual's go-to. At this point, the individual will have developed a new default *routine* for their use case.
@@ -43,7 +43,7 @@ Software designers should design their tools to be adopted by hooking into what 
 
 ## Fit into workflows
 
-> We are what we repeatedly do
+> We are what we repeatedly do  
 > *Aristotle*
 
 Starting to use a new application requires you to think about how to start a new habit. Experts say it generally takes 21 days to establish a new habit [2]. In the world today, the world of applications, tv, consistent and constant notifications, and a bleed between work and non-work situations, new software products live in a tenuous spot. These habits compete with the automatic and established habits we already have.
@@ -70,19 +70,19 @@ Now I want to ask you all a question:
 - What tools do you use do you use everyday? What makes them indispensible?
 - (Extra credit: Is it for the same reason you used it in the first place?)
 
-Email me at <frxchen@gmail.com>!
-
+Email me at <frxchen@gmail.com> or tweet @frankc!
 
 -------
 
 **References**
 
-[1] BJ Fogg, my mentor and Stanford professor who started the Persuasive Technologies lab, describes a simple model for changing behaviors here [behaviormodel.org](http://j.mp/1zqTGCt). Relying on epiphanies is hard
+[1] BJ Fogg, my mentor and Stanford professor who started the Persuasive Technologies lab, describes a simple model for changing behaviors here [behaviormodel.org](http://j.mp/1zqTGCt). Relying on epiphanies is hard, instead, use these methods to help your users do what they want to do. 
+
 [2] Dean, Jeremy, Making Habits, Breaking Habits: Why we do things, why we don't, and How to Make Any Change Stick. [Amazon link](http://j.mp/UIESiN)
+
 [3] Design your Personal Operating System: habits. I discuss the basics of [habit design](http://j.mp/1tnMQNv) with lots of references to things I like to read.
 
-**Images**
-
-Spiral of Mind (Flickr) <http://j.mp/1gws4GG>
-Evernote Smile Graph (TechCrunch) <http://j.mp/1xuKiuG>
+**Images**  
+- Spiral of Mind (Flickr) <http://j.mp/1gws4GG>
+- Evernote Smile Graph (TechCrunch) <http://j.mp/1xuKiuG>
 

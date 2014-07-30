@@ -19,6 +19,7 @@ Many of us have trouble recognizing the fact: You can change your habits, your r
 - I will lose 10 lbs this year.
 
 ![88% of those who create new year's habits do not follow through](https://farm3.staticflickr.com/2182/2328737233_9cd46fe0f2_b.jpg)
+88% of those who create new year's habits do not follow through
 
 Many of these resolutions fail in the absense of a habit.
 
@@ -43,7 +44,7 @@ Day to day. I write code that defines what a user sees and how a user can behave
 
 The tools we use in software development do not exist in the same way to develop behaviors. This software system runs on a computer. I can stop time, and observe, change, tinker with the system in action. We can take part of this framework in thinking the software of our everyday lives, the behavior.
 
->Good habits free our minds to advance to really interesting fields of action.
+>Good habits free our minds to advance to really interesting fields of action.  
 >**William James**
 
 ## Developing behavior
@@ -52,7 +53,7 @@ Habits are social systems we operate in. People have said 90% of communication i
 
 Creating an individual habit is hard. Many books have been written about this [3]. Habits never arise in absense of a social situation. Marcus Aurelius once said "the intelligence of the universe is social". Changing an entire social ecosystem is hard, and so is change in the absense of an ecosystem.
 
-The key to creating new habits is **automation**: Creating systems where the only choice is success.
+The key to creating new habits is **automation**: Create systems where the only choice is success.
 
 There are specific tactics to this:
 
@@ -61,7 +62,8 @@ There are specific tactics to this:
 1. Create small feedback cycles, learn, cut ruthlessly.
 1. There is no forever. Only define behaviors with a time-span.
 
-![Create automatic systems to maximize habits. Trying to run? Find a group and join them](https://farm3.staticflickr.com/2891/11619047474_71850d7f16_b.jpg)
+![Create automatic systems to maximize habits. Trying to run? Find a group and join them](https://farm3.staticflickr.com/2891/11619047474_71850d7f16_b.jpg)  
+Create automatic systems to maximize habits. Trying to run? Find a group and join them
 
 --------
 
@@ -79,7 +81,6 @@ There are specific tactics to this:
 - Daniel Pink's [To Sell Is Human](http://j.mp/1nr4H4l)
 - Richard Thaler and Cass Sunstein's [Nudge](http://j.mp/1ptkYTt)
 
-**Images**
-
-Andando in skateboard / Skating <http://j.mp/1ptpBNp>
-La course, par Franck Vervial <http://j.mp/1h7w0hu>
+**Images**  
+- Andando in skateboard / Skating <http://j.mp/1ptpBNp>
+- La course, par Franck Vervial <http://j.mp/1h7w0hu>

@@ -26,7 +26,7 @@ My morning routine has become a playlist. This progression that leads me towards
 
 ## The Playlist
 
-![My morning ritual](morning-routine.jpg "My morning ritual")
+![My morning ritual](morning-routine.jpg "My morning ritual")  
 *Writing out my morning ritual on post-its as a first step*
 
 Tim Ferriss recommended Daily Rituals as part of his book club [4]. I loved this book because of the sheer breadth of how people started their day.
@@ -68,7 +68,7 @@ Playlists represent individual actions to be performed. My morning routine has b
 
 **What you should take away?** Playlists are a way to think about behavior routines and a tool to increase productivity. After I wrote my initial list, I found different combinations worked better than others. Listing out my "morning playlist" helped me optimize my output for the rest of the day.
 
-Please send me a message if this works for you!
+Send me an email @ <frxchen@gmail.com> if this works for you!
 
 ----
 
