@@ -1,6 +1,7 @@
 #About @Frankc
 
-![Taken on a run around Los Angeles. 2013](run.jpg "Running")
+![Taken on a run around Los Angeles. 2013](run.jpg "Running")  
+*Taken on a run around Los Angeles. 2013*
 
 ##Hello world
 This piece of internet real estate is reserved thoughts that generate ideas, conversations, and projects. I'll be writing to find and explore my interests with a community of people.
@@ -22,3 +23,8 @@ Sharing narratives is a part of the human experience. When you hear a narrative,
 ##Etc…
 
 I have a photo of me running at the top of this post. Running has brought me to see, hear and feel the world differently. I love swimming in every body of water I can find, eating as much spicy ethnic cuisine as my stomach can handle, and traveling by overnight train whenever I have the chance.
+
+You can follow Frank Chen on Twitter at [@frankc](https://twitter.com/frankc). **Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)**!
+
+
+![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/hello-world)
