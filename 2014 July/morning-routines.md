@@ -97,3 +97,9 @@ Send me an email @ <frxchen@gmail.com> if this works for you!
 - [Leo Babuata](http://j.mp/1mYaWFX)
 - [Tim Ferriss](http://j.mp/1r19Y15)
 - [David Ngo](http://j.mp/1lnCh5d)
+
+------
+
+**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+
+![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-july-morning-routines)

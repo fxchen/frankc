@@ -70,8 +70,6 @@ Now I want to ask you all a question:
 - What tools do you use do you use everyday? What makes them indispensible?
 - (Extra credit: Is it for the same reason you used it in the first place?)
 
-Email me at <frxchen@gmail.com> or tweet @frankc!
-
 -------
 
 **References**
@@ -86,3 +84,8 @@ Email me at <frxchen@gmail.com> or tweet @frankc!
 - Spiral of Mind (Flickr) <http://j.mp/1gws4GG>
 - Evernote Smile Graph (TechCrunch) <http://j.mp/1xuKiuG>
 
+-----
+
+**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+
+![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-july-design-for-habit)
