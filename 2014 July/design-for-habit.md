@@ -13,7 +13,8 @@ Designing products that people use is a process. Ideally, this process starts as
 
 Any new product trying to solve a person's existing problem is in a tough position. This person regularly encounters a problem, has noticed it, and does not go out of their way to solve it. This problem has been part of their routine. Part of your solution must make this new behavior intuitive. Your product *must* fit into what an individual does regularly.
 
-![Penrose stairs are impossible stairs, they descend or ascend to form a continuous loop. This photograph (not Penrose stairs) is beautiful yet disorienting. People probably take these!](spiral.jpg)
+![Penrose stairs are impossible stairs, they descend or ascend to form a continuous loop. This photograph (not Penrose stairs) is beautiful yet disorienting. People probably take these!](spiral.jpg)  
+*Penrose stairs are impossible stairs, they descend or ascend to form a continuous loop. This photograph (not Penrose stairs) is beautiful yet disorienting. People probably take these!*
 
 This article is about how to best design software products into the routine of what users already do.
 
@@ -84,8 +85,8 @@ Now I want to ask you all a question:
 - Spiral of Mind (Flickr) <http://j.mp/1gws4GG>
 - Evernote Smile Graph (TechCrunch) <http://j.mp/1xuKiuG>
 
------
+-----------
 
-**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+**More?** Subscribe to my "[Habits, Design, and Learning](https://tinyletter.com/frankc)" mailing list by clicking [here](https://tinyletter.com/frankc)!
 
 ![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-july-design-for-habit)

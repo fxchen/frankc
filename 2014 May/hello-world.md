@@ -24,8 +24,8 @@ Sharing narratives is a part of the human experience. When you hear a narrative,
 
 I have a photo of me running at the top of this post. Running has brought me to see, hear and feel the world differently. I love swimming in every body of water I can find, eating as much spicy ethnic cuisine as my stomach can handle, and traveling by overnight train whenever I have the chance.
 
-------
+-----------
 
-**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+**More?** Subscribe to my "[Habits, Design, and Learning](https://tinyletter.com/frankc)" mailing list by clicking [here](https://tinyletter.com/frankc)!
 
 ![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-may-hello-world)

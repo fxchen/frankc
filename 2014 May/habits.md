@@ -87,6 +87,6 @@ Create automatic systems to maximize habits. Trying to run? Find a group and joi
 
 -----------
 
-**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+**More?** Subscribe to my "[Habits, Design, and Learning](https://tinyletter.com/frankc)" mailing list by clicking [here](https://tinyletter.com/frankc)!
 
 ![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-may-habits)

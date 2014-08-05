@@ -27,7 +27,7 @@ A morning routine can be thought of as a playlist of behaviors. There is an opti
 ## The Playlist
 
 ![My morning ritual](morning-routine.jpg "My morning ritual")  
-Writing out my morning ritual
+*Writing out my morning ritual*
 
 Tim Ferriss recommended *Daily Rituals* as part of his book club [4]. I loved this book because of the sheer breadth of how people started their day.
 
@@ -68,8 +68,6 @@ Playlists represent individual actions to be performed. My morning routine has b
 
 **What should you take away?** Playlists are a way to think about behavior routines and a tool to increase productivity. After I wrote my initial list, I found that different combinations worked better than others. Listing out my "morning playlist" helped me optimize my output for the rest of the day.
 
-Send me an email @ <frxchen@gmail.com> if this works for you!
-
 ----
 
 **References**
@@ -91,15 +89,17 @@ Send me an email @ <frxchen@gmail.com> if this works for you!
 
 **BONUS** Routines from blogs I love to read
 
-- From BufferApp: 1)[Daily Routines of Famous Entrepreneurs] (http://j.mp/1oqdhMu) 2) [Improving Your Morning Routine](http://j.mp/1qBJXWA)
+- From BufferApp: 
+    - [Daily Routines of Famous Entrepreneurs] (http://j.mp/1oqdhMu) 
+    - [Improving Your Morning Routine](http://j.mp/1qBJXWA)
 - [Maneesh Sethi](http://j.mp/TXcPw1)
 - [Ryan Holiday](http://j.mp/1m6I4jm)
 - [Leo Babuata](http://j.mp/1mYaWFX)
 - [Tim Ferriss](http://j.mp/1r19Y15)
 - [David Ngo](http://j.mp/1lnCh5d)
 
-------
+-----------
 
-**More?** Subscribe to the "[Habits, design, and learning](https://tinyletter.com/frankc)" list by clicking [here](https://tinyletter.com/frankc)!
+**More?** Subscribe to my "[Habits, Design, and Learning](https://tinyletter.com/frankc)" mailing list by clicking [here](https://tinyletter.com/frankc)!
 
 ![](https://ga-beacon.appspot.com/UA-36961797-1/sheets/2014-july-morning-routines)
