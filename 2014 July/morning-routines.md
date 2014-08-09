@@ -7,6 +7,8 @@ What's the difference between the two?
 > At dawn, when you have trouble getting out of bed, tell yourself, "I have to go to work—as a human being. What do I have to complain of, if I'm going to do what I was born for the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?"
 > *Marcus Aurelius*
 
+![](morning.jpg)
+
 Your morning routine shapes the arc of the remainder of the morning and potentially the day. By defining a **crisp** morning routine, you can **maximize your day** in whatever it is you're trying to accomplish.
 
 We are all works in progress. This article is about how you can shape your morning routine.
@@ -87,6 +89,8 @@ Playlists represent individual actions to be performed. My morning routine has b
 
 [7] For those not in software development, customers facing issues and system monitoring tools will page engineers. Our team has two engineers who rotate on primary and secondary pager on-call when one of these pages occurs. If the primary engineer does not respond within a set amount of time, the secondary engineer gets paged. If the secondary does not respond, his/her manager will get paged.
 
+**Image credit**  [Jes: Dawn Geometry](http://j.mp/X9JcKa)
+
 **BONUS** Routines from blogs I love to read
 
 - From BufferApp: 
@@ -97,6 +101,7 @@ Playlists represent individual actions to be performed. My morning routine has b
 - [Leo Babuata](http://j.mp/1mYaWFX)
 - [Tim Ferriss](http://j.mp/1r19Y15)
 - [David Ngo](http://j.mp/1lnCh5d)
+
 
 -----------
 

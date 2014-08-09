@@ -59,6 +59,7 @@ Similar to creating [new habits](http://j.mp/1tnMQNv) [3], there are effective p
 - **Trigger** Software can change the operating system hook. Upon install, a software can ask a user to change this default to open your product.
 
 Exceptions to the rule:
+
 - **Disruptive technologies** Software may create an entire new market and value network based around some value prior work did not have. [Wiki link](http://j.mp/1tnQwyO). Because no prior behavior or habits existed, this type of software establishes an entire new set of habits.
 - **Inertia** Software may have a high inertia that makes movement very difficult. Services and platforms build ecosystems around use, and switching is hard. For example, I've heard many twenty-somethings whine about Facebook and their dislike of the privacy controls, yet many of these individuals still use the service. "It's what my friends use."
 
@@ -81,7 +82,8 @@ Now I want to ask you all a question:
 
 [3] Design your Personal Operating System: habits. I discuss the basics of [habit design](http://j.mp/1tnMQNv) with lots of references to things I like to read.
 
-**Images**  
+**Image credits**  
+
 - Spiral of Mind (Flickr) <http://j.mp/1gws4GG>
 - Evernote Smile Graph (TechCrunch) <http://j.mp/1xuKiuG>
 
