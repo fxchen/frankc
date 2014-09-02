@@ -1,6 +1,6 @@
 #About @Frankc
 
-![Taken on a run around Los Angeles. 2013](http://githubc.comrun.jpg "Running")  
+![Taken on a run around Los Angeles. 2013](run.jpg "Running")  
 *Taken on a run around Los Angeles. 2013*
 
 ##Hello world
