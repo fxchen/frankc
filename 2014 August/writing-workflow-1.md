@@ -2,30 +2,30 @@
 
 This article is about the steps I've taken to iterate upon my writing workflow. I'm writing this partially as documentation of how to structure a writing project in the same way as a software project.
 
-This [workflow](http://j.mp/1tJ7Gnq) is one under development. I have had problems with writing cadence and writing over the past few months. Writing this workflow is a means to  increase the quality and the frequency with which I publish.
+This [workflow](http://j.mp/1tJ7Gnq) is one under development. I have had problems with writing cadence—both consistency and speed—over the past few months. Writing this workflow is a means to  increase the quality and the frequency with which I publish.
 
-[Jamie Todd Rubin](http://www.jamierubin.net) is an inspiration with detailed articles on his craft of writing. Jamie is a science fiction author and developer at RAND, who has written consistently about processes for writing and evernote for years [1]. The art of creating process is essential for producing great work in the long term. [Habits](http://j.mp/1tnMQNv) that reduce decisions into processes are critical to long term success.
+[Jamie Todd Rubin](http://www.jamierubin.net) is an inspiration with detailed articles on his craft of writing. Jamie is a science fiction author and developer at RAND, who has written consistently about processes for writing and Evernote for years [1]. The art of creating process is essential for producing great work in the long term. 
 
-In recent months, I have been writing consistently about 6-8 hours a week, most weeks. However, there have been weeks that I've written nothing.
+In recent months, I have been writing consistently about 6-8 hours a week, most weeks. However, there have been weeks that I've written nothing. In both writing and other areas, [habits](http://j.mp/1tnMQNv) that simplify decisions into processes are critical to long term success. 
 
-Learning a new skill is hard and uncomfortable. This article is documentation on what's worked recently and follow-up experiments I'm going to conduct on learning how to write better and more consistently.
+Learning a new skill is hard and uncomfortable. This article is documentation on what works. I'm including the follow-up experiments I'm going to conduct on learning how to write better and more consistently.
 
 ##Tools
 
 ![](screenshot.png)   
 *Screenshot of my writing environment with Marked / Sublime Text*
 
-- **[Git](http://git-scm.com)** is typically used by developers to share and collaborate on code. It provides a nice interface between changes by individual developers and changes to be shared with a group. **Why do I use git for writing?** It gives me the ability to easily pare what articles are published and not yet published, I have nice versioning, and best of all, [github](https://github.com/fxchen/frankc) displays Markdown beautifully.
-- **[Markdown](http://daringfireball.net/projects/markdown)** is a language for writing in plain text that converts to beautiful html. This lets me jot ideas down quickly without the formatting necessary in other formats. Markdown looks like a .txt file with 
-- **[Marked](http://marked2app.com)** is a Markdown tool (by [Brett Terpstra](http://brettterpstra.com)) that previews live with every save. This feedback loop has been the most seemless of all the editors I had experimented with. I have the analysis tool open—this gives me a word count and rough complexity metrics.
+- **[Git](http://git-scm.com)** is typically used by developers to share and collaborate on code. It provides a nice interface between changes by individual developers and changes to be shared with a group. **Why do I use git for writing?** It gives me the ability to easily distinguish what articles are published and not yet published, to version revisions on articles, and best of all, [github](https://github.com/fxchen/frankc) to display Markdown beautifully.
+- **[Markdown](http://daringfireball.net/projects/markdown)** is a language for writing in plain text that converts to beautiful html. This lets me jot ideas down quickly without the formatting necessary in other formats. Markdown looks like a plain text file with light-weight notation. 
+- **[Marked](http://marked2app.com)** is a Markdown tool (by [Brett Terpstra](http://brettterpstra.com)) that previews live with every save. This feedback loop has been the most seamless of all the editors I had experimented with. I have the analysis tool open—this gives me a word count and rough complexity metrics.
 - **[Sublime Text](http://sublimetext.com)** is my favorite editor for development and Markdown. It's lightweight and infinitely extendible.
 
 ## Drafting
 
 1. **Inception** I'll start a small note inside of /working folder. This start of an article is sometimes placed into the working folder then fleshed out at a later date. Typically, this is a sentence or a paragraph.
-1. **Creation** 2 -3 hour chunk to flesh out this original tiny idea. My goal is to have about 600 - 1000 words initially. Typically I'll have Marked open and be looking at readability statistics occassionally.
-1. **Editing** I'll spend another 2 hours to revise the idea for my reader. The initial draft is typically framed for what I find interesting. I frame this writing session for what is interesting for another person.
-1. **Review** I'll send this out to a few friends for review. Also, I'll make two fiverr requests for feedback. Fiverr is a service where small tasks (e.g. editing a blog post) can be done for five dollars. Within a few days (as the fiverr requests return), I will integrate the feedback from a fiverr editor.
+1. **Creation** 2 -3 hour chunk to flesh out this original tiny idea. My goal is to have about 600 - 1000 words initially. Typically I'll have Marked open and glance at readability statistics.
+1. **Editing** I'll spend another 2 hours to revise the rough draft for reading of others. The initial draft is typically framed as my thoughts. In this writing session, I frame this article for what is digestable for others.
+1. **Review** I'll send this out to a few friends for review. Also, I'll make two [Fiverr](http://fiverr.com) requests for feedback. Fiverr is a service where small tasks (e.g. editing a blog post) can be done for five dollars. Within a few days (as the fiverr requests return), I will integrate the feedback from a fiverr editor.
 
 ![](gitflow.jpg)   
 *Initial sketch of my git workflow for publishing*
@@ -47,7 +47,9 @@ This is a two part process:
 
 ## Future Work
 
-- **Automatic daily email / analysis** My initial workflow does not have a good feedback loop outside of the time I spend writing. Since I save each revision on git, it *should* very easy be able to run analysis on things like word count, complexity (see the above image for Marked application's reading analysis). Jamie Rubin [receives an email](http://j.mp/1r671xw) once a day that summarizes his writing for the day, streak length (currently 400+) and progress towards a goal. I plan to create something similar for my private development git branch.
+This initial workflow for writing is meant as a proof of concept for my writing. These are some easily identifiable areas for improvement:
+
+- **Automatic daily email / analysis** Since I save each revision on git, it *should* very easy be able to run analysis on things like word count, complexity (see the above image for Marked application's reading analysis). Jamie Rubin [receives an email](http://j.mp/1r671xw) once a day that summarizes his writing for the day, streak length (currently 400+) and progress towards a goal. I plan to create something similar for my private development git branch.
 - **Faster feedback loop for external editors** My initial experiment using fiverr as external editors has been too slow. The two editor requests came back in 4 and 8 days, which slows down my publication process. I hoped for a more immediate feedback loop as a forcing function to publish. I plan to try this same process on Amazon's Mechanical Turk sometime soon.
 
 ## More Reading
