@@ -74,7 +74,6 @@ Playlists represent individual actions to be performed. My morning routine has b
 
 **References**
 
-
 [1] Vanity Fair: [Obama's Way](http://j.mp/ZGDZCo "Obama's Way")
 
 [2] Motley Health: [Michael Phelps Workout and Diet](http://j.mp/1ocnpHt "Motley Health: Michael Phelps Workout and Diet")
