@@ -1,6 +1,6 @@
 # The Ultimate Beginners Guide To Web Development — Lessons from the Web Lead of an Amazon Web Service
 
-My friends love learning. This essay is an amalgamation of emails I have sent friends and things I have picked up in my journey to learn web development [[1](#notes)]. By the end of this guide you'll be able to answer the following questions: 
+My friends love learning. This guide is an amalgamation of emails I have sent friends and things I have picked up in my journey to learn web development [[1](#frontend-notes)]. By the end of this guide you'll be able to answer the following questions: 
 
 - "How might I build a personal website in an afternoon?"
 - "How might I start web development as a career?"
@@ -8,9 +8,9 @@ My friends love learning. This essay is an amalgamation of emails I have sent fr
 
 Here's a summary of what you'll learn by section:
 
-1. **[How to understand the basics](#basics)** of a webpage and the internet
-2. **[How to structure learning](#structure)** on web development fundamentals
-3. **[How to engage and grow](#experts)** your expertise
+1. **[How to understand the basics](#the-basics)** of a webpage and the internet
+2. **[How to structure learning](#diving-deeper)** on web development fundamentals
+3. **[How to engage and grow](#future-experts)** your expertise
 
 These lessons are pulled from how I have learned. At the end of this guide, you'll have the resources necessary to grow in your desired web development expertise (even if it is just for an afternoon).
 
@@ -27,14 +27,14 @@ In the remainder of this guide, you'll learn how you can grow from a beginniner 
 
 I want to emphasize action:
 
-- If you have an interest in web development, you should **block two hours** for [The Basics](#basics) section and return to reading this guide at that time. For beginners, it's important to have the right expectations. At the end of these hours, you should have a basic understanding of web development and a web presence.
-- Else, if you're looking to learn web development as a hobby or as a career, you may want to print this document ([pdf](https://github.com/fxchen/frankc/raw/master/2014%20October/learning-frontend-software.pdf)) and bookmark it for easy reference. The most important part of **learning a craft** is building a consistent habit, for more on structuring [habits](http://frankc.wordpress.com/2014/08/03/design-your-personal-operating-system-habits/), see [[2](#notes)]. At the end of this reading, you will have a baseline for qualified resources on how to start. This prevents the choice analysis paralysis (when too many choices makes the choice difficult).
+- If you have an interest in web development, you should **block two hours** for [The Basics](#the-basics) section and return to reading this guide at that time. For beginners, it's important to have the right expectations. At the end of these hours, you should have a basic understanding of web development and a web presence.
+- Else, if you're looking to learn web development as a hobby or as a career, you may want to print this document ([pdf](https://github.com/fxchen/frankc/raw/master/2014%20October/learning-frontend-software.pdf)) and bookmark it for easy reference. The most important part of **learning a craft** is building a consistent habit, for more on structuring [habits](http://frankc.wordpress.com/2014/08/03/design-your-personal-operating-system-habits/), see [[2](#frontend-notes)]. At the end of this reading, you will have a baseline for qualified resources on how to start. This prevents the choice analysis paralysis (when too many choices makes the choice difficult).
 
 The following sections are ordered by increasing difficulty.
 
-## The Basics
+[](id:the-basics)
 
-[](id:basics)
+## The Basics
 
 I have sent various emails to friends who want to learn web development. HOWEVER, my results over the past 10 years show about 75% who want to learn web development actually want to do something quite different. They want to build a web presense and register a domain name. To complete this section, you'll need a web browser and at least two hours to set up a web presense and do some reading.
 
@@ -46,7 +46,7 @@ If this is your goal, you should use a site generator that lets you share your s
 - [Wix](http://www.wix.com/)
 - [Webs](http://www.webs.com/)
 
-*Note: You might ask yourself why more than one generator is [listed](#limit). Each has a different strength and are very straight forward to test. These are listed by my ease of use, e.g. I found about.me to be extremely easy to use, but you may find Weebly fits your needs better*
+*Note: You might ask yourself why more than one generator is [listed](#frontend-limit). Each has a different strength and are very straight forward to test. These are listed by my ease of use, e.g. I found about.me to be extremely easy to use, but you may find Weebly fits your needs better*
 
 But wait, how does the internet work? [Introduction on how the browser and internet](https://docs.google.com/presentation/d/1ruLiICsmBwZ3KFBkmOjQcQZAPS85BWImQu71MMcDs6w/edit#slide=id.i0) (by Google researchers).
 
@@ -61,9 +61,9 @@ Excerpt:
     - Search [StackOverflow](http://stackoverflow.com). StackOverflow is the go to resource for many developers. As you start to search for detailed questions, you'll find a StackOverflow page with the answer. These are often more technical in nature than Quora
 - Want a more in-depth look on the internet? [A white paper from Stanford](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
-## Diving Deeper 
+[](id:diving-deeper)
 
-[](id:structure)
+## Diving Deeper 
 
 The resources in this section are meant for those who want to start learning the fundamentals of web development and dive deeper than the basics. This is perhaps the **most important part** of this article. These resources are part of a long term learning process that starts with learning how to structure your learning. At the completion of this section, you should have a basic knowledge of how to deconstruct and play with most web sites you use. Furthermore, you will have a set of resources to continually learn web development.
 
@@ -109,7 +109,7 @@ Read these guides for a basic understanding of the console. You'll return to the
 
 #### Structure your learning
 
-A critical juncture in learning is a habit to jump start your learning process. For example, I like to learn in the mornings. I describe my morning routine [here](http://frankc.wordpress.com/2014/08/03/playlist-your-morning-routine-beat-complexity-like-a-boss/). When I am learning a new craft, I will block at least 30 minutes every morning to learn and practice this craft prior to leaving for work. For more on building a habit see: [[2]](#notes)
+A critical juncture in learning is a habit to jump start your learning process. For example, I like to learn in the mornings. I describe my morning routine [here](http://frankc.wordpress.com/2014/08/03/playlist-your-morning-routine-beat-complexity-like-a-boss/). When I am learning a new craft, I will block at least 30 minutes every morning to learn and practice this craft prior to leaving for work. For more on building a habit see: [[2]](#frontend-notes)
 
 Courses:
 
@@ -120,7 +120,7 @@ Courses:
 - Coursera: [Human-Computer Interaction](https://www.coursera.org/course/hciucsd); [Web Applications](https://www.coursera.org/course/webapplications) Note: these two are limited to when they are offered on Coursera
 
 
-[](id:limit)
+[](id:frontend-limit)
 For structured courses or books: **limit what doesn't work**. Use this list as a list to sample from, and sample the course or book to learn what learning style works for you. For a book, you only need to read 30-40 pages to decide if a programming book's author's style works for you. Even if someone else recommended a book, it may not be ideal for you, everyone's learning style and background is different. The same thing applies for courses. Programming books and courses vary in quality of learning depending on your learning style and skillset. For example, [Mastering AngularJS](https://www.packtpub.com/web-development/mastering-web-application-development-angularjs) is great if you have experience in Javascript and AngularJS. This book jumps from high level concepts for beginners to specific solutions to detailed pain points geared for experts. This type of jump may be disorienting if you're new to AngularJS.
 
 | Don't do this | Do this |
@@ -129,9 +129,9 @@ For structured courses or books: **limit what doesn't work**. Use this list as a
 
 *When It comes to your learning, use this technique of sampling then eliminating what doesn't work. Image Credit [Julie Zhou](https://twitter.com/joulee), originally used in a fantastic article on [Junior versus Senior Designers](https://medium.com/the-year-of-the-looking-glass/junior-designers-vs-senior-designers-fbe483d3b51e)*
 
-## Future Experts
+[](id:future-experts)
 
-[](id:experts)
+## Future Experts
 
 This section is related to a base set of resources are critical to specializing in Javascript and AngularJS. 
 
@@ -148,7 +148,7 @@ Read these resources as you're developing your project (or are going through the
 - [Secrets of the Javascript Ninja](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X)
 
 #### Step 2: On Angular JS
-There are many flavors of Javascript frameworks [[3](#notes)]. The one I am most familiar with is AngularJS. As of this writing, AngularJS has one of most active communities on Github and [many developers swear by it](https://www.google.com/search?q=why+angularjs&oq=why+angularjs). For a showcase of applications built on AngularJS: <https://builtwith.angularjs.org/>. This framework introduces language constructs that engineers familiar with iOS and Android development use that are traditionally missing in Javascript. AngularJS is the right framework for many teams that want to rapidly iterate and maintain a single page application.
+There are many flavors of Javascript frameworks [[3](#frontend-notes)]. The one I am most familiar with is AngularJS. As of this writing, AngularJS has one of most active communities on Github and [many developers swear by it](https://www.google.com/search?q=why+angularjs&oq=why+angularjs). For a showcase of applications built on AngularJS: <https://builtwith.angularjs.org/>. This framework introduces language constructs that engineers familiar with iOS and Android development use that are traditionally missing in Javascript. AngularJS is the right framework for many teams that want to rapidly iterate and maintain a single page application.
 
 **Must reads**
 
@@ -208,9 +208,9 @@ Special thanks to [Abhishek Mantha](http://abhishekmantha.com/) for critical ins
 
 ----
 
-**Notes**
+[](id:frontend-notes)
 
-[](id:notes)
+**Notes**
 
 [1] **Why am I writing this?** I have learned a lot in the past few years and wanted to share a set of resources with my friends who wanted to learn web development and internet friends.
 
