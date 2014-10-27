@@ -20,7 +20,8 @@ These lessons are pulled from how I have learned. At the end of this guide, you'
 Web development is centered around communities of developers sharing and collaborating together to build software. You'll see links to [Github](https://github.com/about), the world's leading open community to share code with "friends, colleagues, classmates, and complete strangers."
 
 ![](new-repos.png)
-*Graph of github.com repositories (Image credit [RedMonk](http://j.mp/Z7SoyA))*
+
+*Graph of github.com repositories. Image credit [RedMonk](http://j.mp/Z7SoyA)*
 
 In the remainder of this guide, you'll learn how you can grow from a beginniner to an expert in web development. This is by no means a comprehensive list of resources. Constraints are powerful in forcing maximum results with minimal investment. This guide lists resources useful for results. This guides teaches an approach on learning and exploring that **you**, **web developer**, will be able to use for what you're trying to do.
 
@@ -104,7 +105,7 @@ Read these guides for a basic understanding of the console. You'll return to the
 
 ![](quicksilver.jpg)
 
-*Knowing how to use the debugger is like having Quicksilver's superpower from X-Men. You can stop Javascript execution, change variables, manipulate HTML, and much more. (Image credit [EW](http://www.inentertainment.co.uk/))* 
+*Knowing how to use the debugger is like having Quicksilver's superpower from X-Men. You can stop Javascript execution, change variables, manipulate HTML, and much more. Image credit [EW](http://www.inentertainment.co.uk/)* 
 
 #### Structure your learning
 
@@ -199,7 +200,8 @@ The easiest pitfall of development is not testing. At the highest levels, testin
 *Build something and stretch your skills*. You can choose the tools in what you build every day in your practice. Github has a variety of codebaes for you to play with that are a "[checkout](http://git-scm.com/book/en/Getting-Started-Git-Basics)" away. Even if you never end up releasing or integrating someone else's project into your development projects, you have the opportunity to play with something cool.
 
 
-<img src="selfie.jpg" height="500px">
+<img src="selfie.jpg" height="500px">  
+
 **I'm smiling because I hope you'll send me feedback!** Send me an email at <hi@frankc.net> on what worked or didn't work for you!
 
 Special thanks to [Abhishek Mantha](http://abhishekmantha.com/) for critical insights on how he learned development, [Jeffrey Song](http://www.linkedin.com/pub/jeffrey-song/4/651/760) for a beginner's narrative on using this guide for learning web development, and [Amaan Penang](http://amaanp.com), [Nate Ngerebara](http://www.linkedin.com/in/ngerebara) for feedback on early drafts of this guide.
