@@ -36,7 +36,7 @@ The following sections are ordered by increasing difficulty.
 
 ## The Basics
 
-I have sent various emails to friends who want to learn web development. HOWEVER, my results over the past 10 years show about 75% who want to learn web development actually want to do something quite different. They want to build a web presense and register a domain name. To complete this section, you'll need a web browser and at least two hours to set up a web presense and do some reading.
+I have sent various emails to friends who want to learn web development. HOWEVER, my results over the past 10 years show about 75% who want to learn web development actually want to do something quite different. They want to build a web presence and register a domain name. To complete this section, you'll need a web browser and at least two hours to set up a web presence and do some reading.
 
 If this is your goal, you should use a site generator that lets you share your site without touching any code. Use **one** of the following site generators to get started: 
 
