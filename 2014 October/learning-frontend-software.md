@@ -88,7 +88,7 @@ Learning a new environment is hard. This is a walk through of my basic environme
     - [Markdown-editor](https://github.com/SublimeText-Markdown/MarkdownEditing/)
     - [Gist](https://github.com/condemil/Gist)
 - **More?**
-    - Sublime Text Customization Guides: [From Scotch.io](http://www.hongkiat.com/blog/sublime-text-plugins/); [From Hongkiat](http://www.hongkiat.com/blog/sublime-text-plugins/)
+    - Sublime Text Customization Guides: [From Scotch.io](http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings); [From Hongkiat](http://www.hongkiat.com/blog/sublime-text-plugins/)
     - Web Development Environment Set-up Guides: [From @nicolashery](https://github.com/nicolashery/mac-dev-setup); [From damln](http://www.damln.com/log/setup/) 
 
 Note: I don't dive deep on all the tools mentioned as they are beyond the scope of this guide (and others do a much better job of it).
