@@ -1,5 +1,5 @@
 
-# "Why Your App Get Deleted…" Behavioral Antipatterns for Product Design
+# "Why Your App Got Deleted…" Behavioral Antipatterns for Product Design
 
 Notice how many the apps on your phone don't get used.
 
